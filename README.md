@@ -56,14 +56,6 @@ We respect your privacy:
 
 ---
 
-## 🧑‍💻 Contributing
-1. Fork this repository 🍴.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Make your changes and commit: `git commit -m "Add some feature"`.
-4. Push to the branch: `git push origin feature-branch-name`.
-5. Open a pull request 🚀.
-
----
 
 ## 📧 Support
-If you have questions or need help, feel free to contact us at [support@yourdomain.com].
+If you have questions or need help, feel free to contact us at [nikhil.patel1217@gmail.com].
