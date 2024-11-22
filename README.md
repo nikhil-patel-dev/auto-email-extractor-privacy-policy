@@ -20,15 +20,6 @@ The **Auto Email Extractor** is a Chrome extension designed to:
 
 ---
 
-## 🛠️ Installation
-1. Download or clone this repository.
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable **Developer Mode** in the top-right corner.
-4. Click **Load unpacked** and select the extension's folder.
-5. Done! 🎉
-
----
-
 ## 📖 How to Use
 1. 🔌 Enable the extension by toggling it **on**.
 2. 🖱️ Click the extension icon in your browser's toolbar.
